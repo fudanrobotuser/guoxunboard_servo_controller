@@ -1,1 +1,3 @@
 # guoxunboard_servo_controller
+
+在国讯芯微的板子上实现对伺服电机的控制
