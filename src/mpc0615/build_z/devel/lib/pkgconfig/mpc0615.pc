@@ -1,0 +1,8 @@
+prefix=/home/niic/github/guoxunboard_servo_controller/src/mpc0615/build_z/devel
+
+Name: mpc0615
+Description: Description of mpc0615
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
